@@ -1,0 +1,522 @@
+fileFormatVersion: 2
+guid: b03287e3376aa284985278ed7838e496
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2665958366948368982
+    second: goomba_0
+  - first:
+      213: 6268277884297706374
+    second: goomba_walk1
+  - first:
+      213: 1329094052204966939
+    second: goomba_walk2
+  - first:
+      213: -2646936077272662393
+    second: goomba_walk3
+  - first:
+      213: 8044139085597164931
+    second: goomba_walk4
+  - first:
+      213: 7518829234646223683
+    second: goomba_walk5
+  - first:
+      213: 2147156700845412417
+    second: goomba_walk6
+  - first:
+      213: -1837141360104208851
+    second: goomba_walk7
+  - first:
+      213: 7954056396027083100
+    second: goomba_walk8
+  - first:
+      213: -728934508601558331
+    second: goomba_walk9
+  - first:
+      213: -3070278954672047151
+    second: goomba_walk10
+  - first:
+      213: -3715438329315228689
+    second: goomba_walk11
+  - first:
+      213: -362563428355482864
+    second: goomba_12
+  - first:
+      213: 595208996584780400
+    second: goomba_13
+  - first:
+      213: 4222867039881718366
+    second: goomba_walk_death
+  - first:
+      213: -4818375574686895549
+    second: goomba_15
+  - first:
+      213: -2095934319165972578
+    second: goomba_16
+  - first:
+      213: 1616695831080491870
+    second: goomba_17
+  - first:
+      213: 3749254077129898858
+    second: goomba_idle
+  - first:
+      213: -2154928954571112495
+    second: goomba_19
+  - first:
+      213: 5951366750635622639
+    second: goomba_20
+  - first:
+      213: -119589903934364477
+    second: goomba_21
+  - first:
+      213: -4395228331354468109
+    second: goomba_22
+  - first:
+      213: 5651497940895053532
+    second: goomba_23
+  - first:
+      213: -5401883949460106512
+    second: goomba_24
+  - first:
+      213: -290428142490572045
+    second: goomba_25
+  - first:
+      213: -244004853735714680
+    second: goomba_idle_death
+  - first:
+      213: 4747403828967631682
+    second: goomba_27
+  - first:
+      213: 8263495410364365523
+    second: goomba_28
+  - first:
+      213: 8226937367237531602
+    second: goomba_29
+  - first:
+      213: -5299913511644452414
+    second: goomba_30
+  - first:
+      213: -2517439760730159591
+    second: goomba_31
+  - first:
+      213: 7225226537003956729
+    second: goomba_32
+  - first:
+      213: -7983011410520143356
+    second: goomba_33
+  - first:
+      213: 2701879682506541968
+    second: goomba_34
+  - first:
+      213: -6177090769591531111
+    second: goomba_35
+  - first:
+      213: 4464763631601481927
+    second: goomba_36
+  - first:
+      213: 1297481232081092270
+    second: goomba_37
+  - first:
+      213: -2636292231562046171
+    second: goomba_38
+  - first:
+      213: -3143125150299452618
+    second: goomba_39
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: goomba_walk1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 151
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b700766856df650800000000000000
+      internalID: 6268277884297706374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goomba_walk2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 151
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b14f2c6aff3e17210800000000000000
+      internalID: 1329094052204966939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goomba_walk3
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 151
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e3ffa69a1344bd0800000000000000
+      internalID: -2646936077272662393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goomba_walk4
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 151
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385cad0f0e582af60800000000000000
+      internalID: 8044139085597164931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goomba_walk5
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 151
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b09e93a5f385860800000000000000
+      internalID: 7518829234646223683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goomba_walk6
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 151
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1409dfea4ab3ccd10800000000000000
+      internalID: 2147156700845412417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goomba_walk7
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 151
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d268fc4aaa92186e0800000000000000
+      internalID: -1837141360104208851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goomba_walk8
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 151
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c593e98562c726e60800000000000000
+      internalID: 7954056396027083100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goomba_walk9
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 151
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cab74e2ded42e5f0800000000000000
+      internalID: -728934508601558331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goomba_walk10
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 151
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db3a69ce8d2465d0800000000000000
+      internalID: -3070278954672047151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goomba_walk11
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 151
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe38b44568c107cc0800000000000000
+      internalID: -3715438329315228689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goomba_walk_death
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 155
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5aead5f233aa9a30800000000000000
+      internalID: 4222867039881718366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goomba_idle
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 121
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b330008b6080430800000000000000
+      internalID: 3749254077129898858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goomba_idle_death
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 125
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8809c99d0ee1d9cf0800000000000000
+      internalID: -244004853735714680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
